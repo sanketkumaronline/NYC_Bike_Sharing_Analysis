@@ -97,4 +97,8 @@ This visualization shows the most popular trip ending locations over the map of 
 4. On weekends, the hours around noon are busier. Most short-term customers ride on weekends.
 5. Top starting and ending locations are around popular landmarks and tourist destinations. I.e., Manhatten in this case.  
 
+### Additional Visualization Suggestions
 
+1. **Average Trip Duration by User Type by Week Days:** Though we have already plotted a heatmap for number of trips based on user type for each day of the week, we can plot a graph or a heatmap by substituting count of trips with average duration of trips. This will help us understand for how long a bikes will be used by a user on a particular day of the week.    
+
+2. **Average Trip by Starting (or Ending) Location:** We can plot circular markers on the map to varying sizes and colors to signify the avarage trip duration according to the starting or ending locations. The bikes in locations with longer average trip duration might need more frequent servicing. 
