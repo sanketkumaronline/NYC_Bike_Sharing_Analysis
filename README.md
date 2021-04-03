@@ -22,7 +22,7 @@ We are creating a proposal for the investor and i am working on data analysis. F
 
 This visualization shows the length of time the bikes are checked out for all riders thorugh a line graph.
 
-![Checkout Times for Users](./Images/checkout-time-users.png)
+![Checkout Times for Users](./Images/checkout-time-users.PNG)
 
 * According to the graph, the bikes are checked out by almost all the riders for less than an hour. Very few riders have cheked out the bikes for longer than an hour.
 * The most common time duration is 5 minutes with a total of 146,752 trip count.
@@ -32,7 +32,7 @@ This visualization shows the length of time the bikes are checked out for all ri
 
 This visualization shows length of time the bikes are checked out for each gender thorugh a multiple line graph.
 
-![Checkout Times by Gender](./Images/checkout-time-gender.png)
+![Checkout Times by Gender](./Images/checkout-time-gender.PNG)
 
 * Male users are taking much more bike trips than female or unknown category. 
 * The graphs for both male and female riders show similar pattern with a sharp peak peak at 5 minutes mark. It means the both male and female riders prefer an average trip duration of about 5 minutes.
@@ -42,7 +42,7 @@ This visualization shows length of time the bikes are checked out for each gende
 
 This visualization shows the number of bike trips by weekday for each hour of the day as a heatmap.
 
-![Trips by Weekday for Each Hour](./Images/trips-weekdays-each-hour.png)
+![Trips by Weekday for Each Hour](./Images/trips-weekdays-each-hour.PNG)
 
 * On weekdays the most busy hours are in morning around 8 AM, and then in evening at around 5 and 6 PM.
 * On weekends, the trend is reveresed. I.e., hours around midday are more popular for rides.
@@ -53,7 +53,7 @@ This visualization shows the number of bike trips by weekday for each hour of th
 
 This visualization shows the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
-![Trips by Gender (Weekday per Hour)](./Images/trips-gender-weekdays-hour.png)
+![Trips by Gender (Weekday per Hour)](./Images/trips-gender-weekdays-hour.PNG)
 
 * The pattern is same for both Male and Female riders with only difference being the total number of rides which is represented by darkness of shades. The shades in heatmap for males are darker as the number of rides are much larger than females.
 * The data in heatmap for Unknown category is not clear, perhaps due to limited data. However, we can see that weekend are popular with midday being the most busy time.
@@ -62,7 +62,7 @@ This visualization shows the number of bike trips by gender for each hour of eac
 
 This visualization shows the number of bike trips by user type and gender for each hour for each day of the week as a heatmap.
 
-![User Trips by Gender by Weekday](./Images/user-trips-gender-weekdays.png)
+![User Trips by Gender by Weekday](./Images/user-trips-gender-weekdays.PNG)
 
 * Majority of users are annual subscribers rather short-term customers for both male and female categories. 
 * For the unknown category, majority of users are short-term customers. This may be due to the difference in the way information is collected for short-term users and annual subscribers. 
@@ -75,7 +75,7 @@ This visualization shows the number of bike trips by user type and gender for ea
 
 This visualization shows the most popular trip starting locations over the map of New York City using circular markes with shade and size depicting the number of trips started.
 
-![Top Starting Locations](./Images/top-starting-locations.png)
+![Top Starting Locations](./Images/top-starting-locations.PNG)
 
 * Most of the trips are started in the Manhatten, followed by The Bronx and Queens.
 * Since Manhattan has many attractions such as Empire State Building and Central Park, it seems users prefer to start their ride in this area.
@@ -84,7 +84,7 @@ This visualization shows the most popular trip starting locations over the map o
 
 This visualization shows the most popular trip ending locations over the map of New York City using circular markes with shade and size depicting the number of trips started.
 
-![Top Ending Locations](./Images/top-ending-locations.png)
+![Top Ending Locations](./Images/top-ending-locations.PNG)
 
 * Top trip ending locations are in Manhatten, followed by The Bronx and Queens.
 * Since most of the trips are of short duration, the top ending points are also near the starting points.
