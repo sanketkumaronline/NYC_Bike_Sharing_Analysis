@@ -1,12 +1,12 @@
 # Citi Bike NYC Bike Sharing Analysis
 
 ## Overview
-I visited New York City for two weeks and explored the city and landmarks on bikes. One of key factors in making this trip memorable is the Citi Bike bike sharing system. This allowed us to know the city better and interact with people. 
+I visited New York City with a friend for two weeks and explored the city and landmarks on bikes. One of key factors in making this trip memorable is the Citi Bike bike sharing system. This allowed us to know the city better and interact with people. 
 
-An idea came to my mind to start a similar bike sharing business in my hometown. We have got an angel investor who is interested in providing seed funding for bike share business in our hometown. We realized that the mechanics of making this business successful in our hometown will be different than in NYC. 
+An idea came to my mind to start a similar bike sharing business in my hometown. We have got an angel investor who is interested in providing seed funding for bike share business in our hometown. We realized that the mechanics of making this business successful in our hometown will be different than in NYC. However, there are things we could learn from the existing bike sharing systems such as Citi Bikes.
 
 ### Purpose
-We are creating a proposal for the investor and i am working on data analysis. For this we have decided to do an analysis of Citi Bike data released to the public. Though we know that this data applies specifically to NYC, we are expecting to find out which part of the data can apply to our hometown and how we can use this data to learn more about this business. 
+We are creating a proposal for the investor and i am working on data analysis. For this we have decided to do an analysis of Citi Bike data released to the public. Though we know that this data applies specifically to NYC, we are expecting to find out which part of the data can apply to our hometown and how we can use this data to learn more about this business. I am using data visualization software Tableau to present the data anaysis in comprehensible format. Also i need to change the data Trip Duration column from integer to datetime data type to perform some more meaningful analysis.
 
 **Data Source:** [Citi Bike Trip Data for August 2019](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip) 
 
